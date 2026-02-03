@@ -1,0 +1,17 @@
+title: Daphne Ticola
+description: >
+  Instructional Systems Designer showcasing learner-centered,
+  performance-driven instructional solutions.
+
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "default"
+
+author:
+  name: Daphne Ticola
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/daphne-ticola3"
