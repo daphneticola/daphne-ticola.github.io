@@ -1,3 +1,2 @@
-assets/
-  images/
-    README.md
+daphne.jpg
+header.png
