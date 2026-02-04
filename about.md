@@ -14,18 +14,3 @@ I hold a **Master of Education (M.Ed.) in Secondary Education** and am currently
 
 This portfolio serves as both an academic and professional space to showcase selected coursework, design artifacts, and reflections that demonstrate my ability to analyze learning needs, apply research-based theory, and design instruction aligned to real-world learning contexts.
 
-### Professional Focus
-
-My interests and experience center on:
-- Instructional systems design and analysis  
-- Learning theory application (behaviorism, cognitivism, constructivism)  
-- Learner-centered and performance-focused design  
-- Online, blended, and technology-supported learning  
-- Reflective practice and continuous improvement  
-
-I am particularly interested in bridging **educational theory and practical instructional design**, ensuring learning solutions are both grounded in research and effective in practice.
-
-### Professional Engagement
-
-I regularly share insights and reflections related to instructional design, learning theory, and professional growth within the field. I welcome professional connections and conversations around learning design and educational technology.
-
