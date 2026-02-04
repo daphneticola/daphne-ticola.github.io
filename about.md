@@ -5,7 +5,6 @@ permalink: /about/
 ---
 
 
-# About Me
 
 Hello! I'm **Daphne Ticola, M.Ed.**, an instructional systems designer with a background in education and a focus on designing meaningful, learner-centered instructional experiences.
 
