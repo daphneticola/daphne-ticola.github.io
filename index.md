@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Welcome
-author_profile: true
+author_profile: false
 ---
 
 I am an Instructional Systems Designer with professional experience designing
