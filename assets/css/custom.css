@@ -31,34 +31,36 @@
 }
 
 /* ================================
-   PAGE LAYOUT
+   PAGE LAYOUT (Minimal Mistakes–correct)
 ================================ */
-.page__content {
+.page__content .page__inner-wrap {
   max-width: 900px;
   line-height: 1.65;
 }
 
 /* ================================
-   HEADINGS
+   HEADINGS (scoped + cleaner)
 ================================ */
-h1, h2, h3 {
+.page__content h1,
+.page__content h2,
+.page__content h3 {
   color: var(--heading);
 }
 
-h2 {
+.page__content h2 {
   border-bottom: 2px solid var(--accent);
   padding-bottom: 0.3rem;
   margin-top: 2.5rem;
 }
 
 /* ================================
-   LINKS
+   LINKS (content only)
 ================================ */
-a {
+.page__content a {
   color: var(--accent);
 }
 
-a:hover {
+.page__content a:hover {
   text-decoration: underline;
 }
 
@@ -71,4 +73,3 @@ a:hover {
   padding: 1rem;
   margin: 2rem 0;
 }
-
