@@ -1,1 +1,74 @@
+/* ================================
+   BRAND COLORS (easy to change)
+================================ */
+:root {
+  --accent: #2f5d8c;   /* professional muted blue */
+  --soft-bg: #f7f9fc;  /* light neutral background */
+  --heading: #1f2933;  /* dark slate */
+}
+
+/* ================================
+   HEADER / NAVIGATION
+================================ */
+.site-header {
+  background-color: var(--soft-bg);
+  border-bottom: 3px solid var(--accent);
+}
+
+.site-title,
+.site-title a {
+  color: var(--heading);
+  font-weight: 600;
+}
+
+.greedy-nav a {
+  color: var(--heading);
+  font-weight: 500;
+}
+
+.greedy-nav a:hover {
+  color: var(--accent);
+}
+
+/* ================================
+   PAGE LAYOUT
+================================ */
+.page__content {
+  max-width: 900px;
+  line-height: 1.65;
+}
+
+/* ================================
+   HEADINGS
+================================ */
+h1, h2, h3 {
+  color: var(--heading);
+}
+
+h2 {
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 0.3rem;
+  margin-top: 2.5rem;
+}
+
+/* ================================
+   LINKS
+================================ */
+a {
+  color: var(--accent);
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ================================
+   CALLOUT BOX (optional use)
+================================ */
+.callout {
+  background-color: var(--soft-bg);
+  border-left: 4px solid var(--accent);
+  padding: 1rem;
+  margin: 2rem 0;
+}
 
