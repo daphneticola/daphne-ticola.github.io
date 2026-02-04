@@ -12,5 +12,4 @@ I am a Department of Defense contractor supporting training and instructional de
 
 I hold a **Master of Education (M.Ed.) in Secondary Education** and am currently pursuing a **Master of Science in Instructional Technology and Design (MSITD)** at the **University of North Alabama (UNA)**. Through my graduate studies, I am deepening my expertise in instructional design theory, instructional media, and technology-enhanced learning environments.
 
-This portfolio serves as both an academic and professional space to showcase selected coursework, design artifacts, and reflections that demonstrate my ability to analyze learning needs, apply research-based theory, and design instruction aligned to real-world learning contexts.
 
