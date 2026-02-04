@@ -15,3 +15,7 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/daphne-ticola3"
+minimal_mistakes_skin: "default"
+
+custom_css:
+  - /assets/css/custom.css
