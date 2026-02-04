@@ -1,0 +1,3 @@
+assets/
+  images/
+    README.md
