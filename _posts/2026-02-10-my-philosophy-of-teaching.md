@@ -4,6 +4,15 @@ layout: default
 categories: blog
 tags: instructional-design constructivism renzulli mayer gifted-education
 ---
+<style>
+.initial-content {
+    max-width: 900px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+}
+</style>
 
 # My Philosophy of Teaching
 
