@@ -1,6 +1,6 @@
 ---
 title: "My Philosophy of Teaching"
-layout: post
+layout: default
 categories: blog
 tags: instructional-design constructivism renzulli mayer gifted-education
 ---
