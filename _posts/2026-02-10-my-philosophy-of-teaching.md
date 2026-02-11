@@ -1,9 +1,8 @@
 ---
 title: "My Philosophy of Teaching"
 layout: post
-permalink: /blog/philosophy-of-teaching/
 categories: blog
-tags: instructional-design accessibility gifted-education
+tags: instructional-design constructivism renzulli mayer gifted-education
 ---
 
 # My Philosophy of Teaching
@@ -20,7 +19,7 @@ In practice, this means creating learning environments that engage learners in a
 
 ## Teaching for Talent Development and Engagement
 
-![Renzulli Three-Ring Conception of Giftedness]({{ site.baseurl }}/assets/images/renzulli3ring.png)
+![Alt text]({{ site.baseurl }}/assets/images/renzulli3ring.png)
 
 *Figure 1. Renzulli’s Three-Ring Conception of Giftedness illustrates gifted behaviors as the interaction of above-average ability, creativity, and task commitment (Renzulli, Reis, & Smith, 2021).*
 
@@ -32,7 +31,7 @@ Aha moments, therefore, are the result of teaching that aligns challenge with su
 
 ## Cognitive Clarity and Multimedia Design
 
-![Cognitive Theory of Multimedia Learning]({{ site.baseurl }}/assets/images/cognitivetheory-of-multimedialearning.png)
+![Alt text]({{ site.baseurl }}/assets/images/cognitivetheory-of-multimedialearning.png)
 
 *Figure 2. Multimedia learning principles illustrating the importance of managing cognitive load through intentional instructional design (Mayer, 2020; Wikiversity, n.d.).*
 
