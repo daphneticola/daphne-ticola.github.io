@@ -73,3 +73,25 @@
   padding: 1rem;
   margin: 2rem 0;
 }
+/* ===================================
+   CONTENT WIDTH / MARGINS
+   =================================== */
+
+/* Constrain content width for better readability */
+.page__content,
+article,
+.post-content,
+main {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* Keep images responsive within the constrained width */
+.page__content img,
+article img {
+  max-width: 100%;
+  height: auto;
+}
